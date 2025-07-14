@@ -19,7 +19,7 @@ const Header = () => {
       {/* Logo Section */}
       <div className="flex items-center justify-center w-full md:w-auto text-white">       
         <span className="text-3xl sm:text-4xl font-bold text-white">Sorting</span>
-        <span className="text-3xl sm:text-4xl font-bold text-[#00FFC6]">Visualizer</span>
+        <span className="text-3xl sm:text-4xl font-bold text-[#ec7d22]">Visualizer</span>
       </div>
 
       {/* Sorting Buttons */}
